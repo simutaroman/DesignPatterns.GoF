@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "Abstract
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryReal", "AbstractFactoryReal\AbstractFactoryReal.csproj", "{A3E6236E-F2D6-4A0D-8475-0C5364710FF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory.NET", "AbstractFactory.NET\AbstractFactory.NET.csproj", "{DC57ABE5-D1B0-4967-AB56-E0B54EF3DE9A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A3E6236E-F2D6-4A0D-8475-0C5364710FF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3E6236E-F2D6-4A0D-8475-0C5364710FF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3E6236E-F2D6-4A0D-8475-0C5364710FF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC57ABE5-D1B0-4967-AB56-E0B54EF3DE9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC57ABE5-D1B0-4967-AB56-E0B54EF3DE9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC57ABE5-D1B0-4967-AB56-E0B54EF3DE9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC57ABE5-D1B0-4967-AB56-E0B54EF3DE9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -34,6 +40,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{C97BDF31-A303-4F47-AD6F-FE13EBA341BB} = {9F53558A-6068-4874-93F4-E139153D9D1F}
 		{A3E6236E-F2D6-4A0D-8475-0C5364710FF2} = {9F53558A-6068-4874-93F4-E139153D9D1F}
+		{DC57ABE5-D1B0-4967-AB56-E0B54EF3DE9A} = {9F53558A-6068-4874-93F4-E139153D9D1F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4EFB69B8-9C50-4381-86A5-0957DE3D8A83}
